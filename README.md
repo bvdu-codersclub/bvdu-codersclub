@@ -1,3 +1,4 @@
+![logo](https://github.com/bvdu-codersclub/bvdu-codersclub/blob/main/a%20group%20of%20Coding%20Enthusiasts%20(2).gif)
 <h1 align="center">Hi 👋, We are Coders Club</h1>
 <h3 align="center">We are a group of Coding Enthusiasts at BVDU DMS! 🖥️👩‍💻👨‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bvdu-codersclub&label=Profile%20views&color=0e75b6&style=flat" alt="bvdu-codersclub" /> </p>
